@@ -1,0 +1,14 @@
+{
+    "test": { 
+        "category": "music", 
+        "sounds": ["wuppy:test"], 
+        "subtitle": "wuppy.subtitle.test",
+        "stream": true
+    },
+    "button_click": { 
+        "category": "music", 
+        "sounds": ["wuppy:button_click"], 
+        "subtitle": "wuppy.subtitle.button_clickt",
+        "stream": true
+    }
+}

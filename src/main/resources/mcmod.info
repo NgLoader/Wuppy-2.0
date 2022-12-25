@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wuppy",
+  "name": "Wuppy",
+  "description": "Coming Soon",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "wuppy.ZockerCraft.net",
+  "updateUrl": "",
+  "authorList": ["Dragon0697", "NilssMiner99"],
+  "credits": "Coming Soon",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
